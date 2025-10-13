@@ -1,9 +1,12 @@
-### Adding code blocks
+### This is a taslk list
 
-```C++
-int n;
-n = 1;
+```md
+-[] check this
+-[] dont check this one
+-[] did i do it right?
+
 ```
+
 
 
 
