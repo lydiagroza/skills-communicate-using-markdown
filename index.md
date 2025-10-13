@@ -1,11 +1,10 @@
-### This is a taslk list
+### This is a task list
 
-```md
--[ ] check this
--[ ] dont check this one
--[ ] did i do it right?
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
-```
+
 
 
 
